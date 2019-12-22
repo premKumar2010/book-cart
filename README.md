@@ -1,2 +1,2 @@
 # book-cart
-Practising angular js by implementing Book-cart project.
+Practising angularJS by implementing Book-cart project.
